@@ -4,9 +4,9 @@ void	ft_swap(int *a, int *b)
 {
 	int	tmp;
 
-	tmp = *a
-	*a = *b
-	*b = tmp
+	tmp = *a;
+	*a = *b;
+	*b = tmp;
 }
 
 void	ft_sort_int_tab(int *tab, int size)
